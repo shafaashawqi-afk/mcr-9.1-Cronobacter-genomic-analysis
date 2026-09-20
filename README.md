@@ -186,5 +186,10 @@ ORCID: **0009-0000-5265-0652**
 ---
 
 ## License
+The analysis scripts in this repository are licensed under the MIT License.
 
-The repository license will be specified before the final public release is archived through Zenodo.
+The original research data, processed datasets, tables, annotations, and other supporting research materials provided in this repository are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+
+Third-party data and materials are not covered by these licenses. In particular, genome assemblies obtained from the NCBI Assembly database remain subject to their original terms and conditions.
+
+See LICENSE for the MIT License and LICENSE-DATA for the CC BY 4.0 License.
