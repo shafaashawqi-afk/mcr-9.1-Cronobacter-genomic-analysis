@@ -1,0 +1,46 @@
+TREE_COLORS
+SEPARATOR TAB
+DATA
+cro810A3	branch	#1F77B4	normal	2
+KubGAU_B-268	branch	#1F77B4	normal	2
+MOD1_WNTSBCO4	branch	#1F77B4	normal	2
+S054-001	branch	#1F77B4	normal	2
+S053-001	branch	#1F77B4	normal	2
+CFSAN135223	branch	#1F77B4	normal	2
+CFSAN140976	branch	#1F77B4	normal	2
+25MDFML003374-2A	branch	#1F77B4	normal	2
+25MDFML003369-4A	branch	#1F77B4	normal	2
+25MDFML003369-3A	branch	#1F77B4	normal	2
+25MDFML004503-1A	branch	#1F77B4	normal	2
+CFSAN129441	branch	#1F77B4	normal	2
+MOD1_LR7365	branch	#1F77B4	normal	2
+CH84	branch	#1F77B4	normal	2
+CH43	branch	#1F77B4	normal	2
+CH44	branch	#1F77B4	normal	2
+CH65	branch	#1F77B4	normal	2
+CH45	branch	#1F77B4	normal	2
+716	branch	#9467BD	normal	2
+CFSAN138565	branch	#1F77B4	normal	2
+HA18074	branch	#1F77B4	normal	2
+10_6_2001	branch	#1F77B4	normal	2
+CFSAN141446	branch	#1F77B4	normal	2
+CFSAN141625	branch	#1F77B4	normal	2
+cro1489B1	branch	#2CA02C	normal	2
+CFSAN080751	branch	#D62728	normal	2
+2001-10-06	branch	#D62728	normal	2
+bq	branch	#FF7F0E	normal	2
+CFSAN080747	branch	#FF7F0E	normal	2
+SC16	branch	#FF7F0E	normal	2
+CS291	branch	#FF7F0E	normal	2
+CS6162	branch	#FF7F0E	normal	2
+CS-42	branch	#8C564B	normal	2
+CE52	branch	#8C564B	normal	2
+CFSAN142785	branch	#8C564B	normal	2
+CRZK	branch	#7F7F7F	normal	2
+S071-004	branch	#E377C2	normal	2
+CFSAN145334	branch	#E377C2	normal	2
+
+LEGEND_TITLE	Sequence type (ST)
+LEGEND_SHAPES	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#1F77B4	#FF7F0E	#2CA02C	#D62728	#9467BD	#8C564B	#E377C2	#7F7F7F
+LEGEND_LABELS	ST1	ST4	ST8	ST13	ST14	ST21	ST148	ST256

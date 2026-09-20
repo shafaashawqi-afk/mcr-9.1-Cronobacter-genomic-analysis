@@ -1,0 +1,47 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	mcr-9.1 localization (MOB-suite)
+COLOR	#444444
+LEGEND_TITLE	mcr-9.1 localization
+LEGEND_SHAPES	1	1
+LEGEND_COLORS	#377EB8	#E41A1C
+LEGEND_LABELS	Predicted chromosome	Plasmid-associated
+DATA
+cro810A3	#377EB8	Predicted chromosome
+KubGAU_B-268	#377EB8	Predicted chromosome
+MOD1_WNTSBCO4	#377EB8	Predicted chromosome
+S054-001	#377EB8	Predicted chromosome
+S053-001	#377EB8	Predicted chromosome
+CFSAN135223	#377EB8	Predicted chromosome
+CFSAN140976	#377EB8	Predicted chromosome
+25MDFML003374-2A	#377EB8	Predicted chromosome
+25MDFML003369-4A	#377EB8	Predicted chromosome
+25MDFML003369-3A	#377EB8	Predicted chromosome
+25MDFML004503-1A	#377EB8	Predicted chromosome
+CFSAN129441	#377EB8	Predicted chromosome
+MOD1_LR7365	#377EB8	Predicted chromosome
+CH84	#377EB8	Predicted chromosome
+CH43	#377EB8	Predicted chromosome
+CH44	#377EB8	Predicted chromosome
+CH65	#E41A1C	Plasmid-associated
+CH45	#377EB8	Predicted chromosome
+716	#377EB8	Predicted chromosome
+CFSAN138565	#377EB8	Predicted chromosome
+HA18074	#377EB8	Predicted chromosome
+2001-10-06	#377EB8	Predicted chromosome
+CFSAN141446	#377EB8	Predicted chromosome
+CFSAN141625	#377EB8	Predicted chromosome
+cro1489B1	#377EB8	Predicted chromosome
+CFSAN080751	#377EB8	Predicted chromosome
+1011-04	#377EB8	Predicted chromosome
+bq	#E41A1C	Plasmid-associated
+CFSAN080747	#E41A1C	Plasmid-associated
+SC16	#E41A1C	Plasmid-associated
+CS291	#E41A1C	Plasmid-associated
+CS6162	#377EB8	Predicted chromosome
+CS-42	#E41A1C	Plasmid-associated
+CE52	#E41A1C	Plasmid-associated
+CFSAN142785	#E41A1C	Plasmid-associated
+CRZK	#E41A1C	Plasmid-associated
+S071-004	#377EB8	Predicted chromosome
+CFSAN145334	#377EB8	Predicted chromosome
