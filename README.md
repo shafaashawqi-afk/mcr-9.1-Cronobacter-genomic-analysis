@@ -150,9 +150,10 @@ All genome assemblies analysed in this work are publicly available through the *
 
 The supporting datasets, analysis scripts, phylogenetic files, and visualization annotation files required to reproduce the reported analyses are provided in this repository.
 
-v1.0.0
+**Version:** v1.0.0
 
-**Zenodo DOI:**[ To be added after publication of the repository release.](https://doi.org/10.5281/zenodo.22858069)
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.22858069
+
 
 ---
 
@@ -166,7 +167,8 @@ Ali, S.S. *Comparative genomic analysis of the mcr-9.1 region reveals structural
 
 ### Repository
 
-Ali, S.S. *mcr-9.1-Cronobacter-genomic-analysis*. Zenodo. DOI: [To be added.](https://doi.org/10.5281/zenodo.22858069)
+Ali, S.S. (2026). *mcr-9.1-Cronobacter-genomic-analysis: v1.0.0 — Initial reproducible release*. Zenodo. https://doi.org/10.5281/zenodo.22858069
+
 
 ---
 
