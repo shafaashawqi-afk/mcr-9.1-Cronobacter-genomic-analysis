@@ -142,7 +142,7 @@ Shafaa Shawqi Ali
 
 Microbiologist and Bioinformatics Researcher
 
-ORCID: 0000-0003-1675-3173
+ORCID: 0009-0000-5265-0652
 
 License
 
