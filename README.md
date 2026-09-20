@@ -132,18 +132,13 @@ Software versions are reported where available to facilitate reproducibility of 
 
 ## Reproducibility
 
-The repository provides the final supporting datasets, analysis scripts, phylogenetic files, and visualization annotation files required to reproduce the principal statistical analyses and figures reported in the manuscript.
+All analysis scripts, supporting datasets, supplementary materials, phylogenetic files, and iTOL annotation files required to reproduce the analyses are available in this repository.
 
-To reproduce the analyses, users should:
+A versioned archive of the repository is available on Zenodo:
 
-1. Obtain the corresponding genome assemblies from the NCBI Assembly database using the accession numbers provided in Table 1 of the manuscript.
-2. Use the supporting datasets provided in this repository.
-3. Run the corresponding R scripts for the statistical analyses and figures.
-4. Use the provided phylogenetic and iTOL annotation files for phylogenetic visualization.
+Zenodo DOI: https://doi.org/10.5281/zenodo.22858069
 
-The genome assemblies are not redistributed in this repository because they are publicly available through NCBI.
-
-Because software versions, databases, and external genome records may change over time, exact reproduction may require use of the software versions specified above and the same accession records used in the study.
+Version: v1.0.0
 
 ---
 
@@ -155,9 +150,9 @@ All genome assemblies analysed in this work are publicly available through the *
 
 The supporting datasets, analysis scripts, phylogenetic files, and visualization annotation files required to reproduce the reported analyses are provided in this repository.
 
-A version of this repository will be archived through **Zenodo** to provide a persistent DOI for citation and long-term access.
+v1.0.0
 
-**Zenodo DOI:** To be added after publication of the repository release.
+**Zenodo DOI:**[ To be added after publication of the repository release.](https://doi.org/10.5281/zenodo.22858069)
 
 ---
 
