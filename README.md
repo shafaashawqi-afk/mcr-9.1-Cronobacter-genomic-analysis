@@ -166,7 +166,7 @@ Ali, S.S. *Comparative genomic analysis of the mcr-9.1 region reveals structural
 
 ### Repository
 
-Ali, S.S. *mcr-9.1-Cronobacter-genomic-analysis*. Zenodo. DOI: To be added.
+Ali, S.S. *mcr-9.1-Cronobacter-genomic-analysis*. Zenodo. DOI: [To be added.](https://doi.org/10.5281/zenodo.22858069)
 
 ---
 
